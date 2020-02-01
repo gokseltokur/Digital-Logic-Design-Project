@@ -15,6 +15,7 @@ LD instruction consists of 4 states,
 * 2. Fetch instruction from Instruction Memory with address given in PC.
 * 3. Read Data Memory with given address in instruction.
 * 4. Write content from Data Memory to destination register.
+
 All of other instructions consist of 3 different steps,
 * 1. Read PC value
 * 2. Read Instruction
